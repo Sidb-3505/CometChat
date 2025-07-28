@@ -56,10 +56,10 @@ The app features a bottom navigation bar for seamless access to:
 ## 📷 Screenshots
 
 | Login Screen                   | Chats Screen                   |
-| ![Login](screenshots/login.png) | ![Chats](screenshots/chats.png) |
+| ![Login](screenshots/login.jpg) | ![Chats](screenshots/chats.jpg) |
 |:-------------------------------:|:-------------------------------:|
 | Calls Screen                   | Users Screen                   |
-| ![Calls](screenshots/calls.png) | ![Users](screenshots/users.png) |
+| ![Calls](screenshots/calls.jpg) | ![Users](screenshots/users.jpg) |
 ---
 
 
