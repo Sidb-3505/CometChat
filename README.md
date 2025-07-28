@@ -82,6 +82,6 @@ The app features a bottom navigation bar for seamless access to:
             * Auth Key
        * Replace these values in your initialization code:
 
-4**Run the app**
+4. **Run the app**
     ```bash
        flutter run
