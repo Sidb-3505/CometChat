@@ -86,3 +86,10 @@ The app features a bottom navigation bar for seamless access to:
 4. **Run the app**
     ```bash
        flutter run
+    
+5. **To Use the App**
+    ```bash
+       Login UID for 1st user: demo_user_1
+       Login UID for 1st user: demo_user_2
+    
+    
